@@ -1,7 +1,5 @@
 # samba-cohesity
-Repo to share samba changes made by Cohesity. This repository contains changes
-made by cohesity on top of samba version 4.5.16. The following files have been
-modified to make the library adheree to the use case at Cohesity:
+This repository includes modification to Samba v 4.5.16 made by Cohesity. The following files have been modified:
 
 auth/ntlmssp/ntlmssp_client.c
 docs-xml/smbdotconf/winbind/winbindscantrusteddomains.xml
