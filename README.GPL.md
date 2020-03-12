@@ -1,5 +1,6 @@
 # samba-cohesity
-This repository includes modification to Samba v 4.5.16 made by Cohesity. The following files have been modified:
+This repository includes modification to Samba v 4.5.16 made by Cohesity.
+The following files with GPL licence have been modified:
 
 auth/ntlmssp/ntlmssp_client.c\
 docs-xml/smbdotconf/winbind/winbindscantrusteddomains.xml\
